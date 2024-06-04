@@ -1,2 +1,3 @@
 # mlops-course-hw
-HW related to the MLOPs Zoomcamp hows
+
+This repository contains the excercises proposed in the MLOps course of Zoomcamp.
